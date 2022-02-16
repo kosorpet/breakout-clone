@@ -1,5 +1,5 @@
 # breakout-clone
-Simple version of Breakout, written using C++ and SDL2 liberary.
+Simple version of Breakout, written using C++ and SDL2 library.
 Smestral work written for Programming and Algorithmic course while studying at Czech Technical University.
 ## Requirements
 * [SDL2](https://www.libsdl.org/)
