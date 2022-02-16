@@ -9,7 +9,7 @@ Smestral work written for Programming and Algorithmic course while studying at C
 `make compile`  to compile the game
 `make all` to compile and generate documentation
 ## How to play
-Using ball, the player must knock down as many bricks as possible by using the walls and/or the paddle below to hit the ball against the bricks and eliminate them.
+Using a ball, the player must knock down as many bricks as possible by using the walls and/or the paddle below to hit the ball against the bricks and eliminate them.
 Each brick has a change to drop a power-up. If you break all the bricks on the screen, you progress to the next level.
 ## Controls
 * Arrow keys
