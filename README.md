@@ -14,3 +14,4 @@ Each brick has a change to drop a power-up. If you break all the bricks on the s
 ## Controls
 * Arrow keys
 * Spacebar
+![game](https://github.com/kosorpet/breakout-clone/blob/main/gif/game.gif)
